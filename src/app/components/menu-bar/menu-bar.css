@@ -1,0 +1,16 @@
+
+.menuBarContainer > ul {
+  display: flex;
+  flex-direction: row;
+
+}
+
+.menuBarContainer >ul > li{
+  margin-right: 20px;
+  margin-bottom: 15px;
+  list-style: none;
+}
+
+.menuBarContainer >ul > li > a{
+  text-decoration: none;
+}
