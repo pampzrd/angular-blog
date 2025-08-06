@@ -5,7 +5,7 @@
 .contentSmallCardContent{
   display: flex;
   flex-direction: row;
-  justify-content: center;
+  justify-content: left;
   margin-bottom: 10px;
 }
 .smallCardTitle{
