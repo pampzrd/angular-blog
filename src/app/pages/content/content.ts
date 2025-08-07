@@ -27,7 +27,6 @@ export class Content {
     this.contentTitle = result.title;
     this.contentText=result.text;
     this.contentPicture=result.photo;
-
   }
 
 

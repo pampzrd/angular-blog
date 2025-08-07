@@ -1,12 +1,12 @@
 .containerSmallCard{
   width: 600px;
-  height: 160px;
+  height: 140px;
 }
 .contentSmallCardContent{
   display: flex;
   flex-direction: row;
   justify-content: left;
-  margin-bottom: 10px;
+  margin-bottom: 6px;
 }
 .smallCardTitle{
   display: flex;
